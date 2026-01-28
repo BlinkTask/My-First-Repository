@@ -1,4 +1,4 @@
 # My-First-Repository
 This is my First Repository.
 <br>
-Author - Abhishek Kumar Dutta
+Author - Abhishek Kr. Dutta
